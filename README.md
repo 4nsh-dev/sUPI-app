@@ -14,8 +14,8 @@
 
 ## Tech Stack
 - Vanilla JS + HTML5 + CSS3
-- QRCode.js for QR generation
-- Deployed on Vercel
+- QRCode.js for QR generation.
+- Deployed on Vercel!
 
 ## Screenshots
 <img width="1440" height="709" alt="image" src="https://github.com/user-attachments/assets/f5da86c8-8a32-44f4-bd9f-acbcc075ef9c" />
