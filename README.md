@@ -14,7 +14,7 @@
 
 ## Tech Stack
 - Vanilla JS + HTML5 + CSS3
-- QRCode.js for QR generation.
+- QRCode.js for QR generation Payments
 - Deployed on Vercel!
 
 ## Screenshots
