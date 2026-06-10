@@ -9,7 +9,7 @@
 - 🛡️ Fraud & Scam Detection (heuristic engine, 40+ threat signals)
 - 🪙 Crypto Wallet (BTC, ETH, SOL, MATIC)
 - 📱 QR Payment Generator (UPI + Crypto)
-- 📊 Live Dashboard with spending insights
+- 📊 Live Dashboard with spending insights.
 - 🔍 Transaction Explorer with filters.
 
 ## Tech Stack
