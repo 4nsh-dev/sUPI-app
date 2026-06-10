@@ -10,7 +10,7 @@
 - 🪙 Crypto Wallet (BTC, ETH, SOL, MATIC)
 - 📱 QR Payment Generator (UPI + Crypto)
 - 📊 Live Dashboard with spending insights
-- 🔍 Transaction Explorer with filters
+- 🔍 Transaction Explorer with filters.
 
 ## Tech Stack
 - Vanilla JS + HTML5 + CSS3
